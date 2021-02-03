@@ -8,6 +8,6 @@ My name is Jason Dinh, I'm a senior at Lehigh University studying Business Infor
 
 ### My links
 
-[repository settings](https://linkedin.com/dinhjason.com)
+[LinkedIn](https://linkedin.com/dinhjason.com)
 
 ### Support or Contact
