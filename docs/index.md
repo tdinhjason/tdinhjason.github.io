@@ -17,7 +17,7 @@ This is BlackJack, aka Blackie, a goat I met on a service trip to Paris, Virgini
 ![IMG_5948](/assets/IMG_5948.jpg)
 This is a baby sheep on the farm, too cute not to include.
 
-![emu](/assets/emu.heic)
+![emu](/assets/emu.jpg)
 Ever meet an emu? Imagine an ostrich and shrink it down a bit. That's basically what they look like, super fast and I tried running around with a few of them, needless to say, they beat me.
 
 ### My links
