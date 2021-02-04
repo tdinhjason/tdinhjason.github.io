@@ -23,6 +23,7 @@ Ever meet an emu? Imagine an ostrich and shrink it down a bit. That's basically 
 ### My links
 
 [LinkedIn](https://linkedin.com/dinhjason.com)
+
 [Email](mailto:jtd221@lehigh.edu)
 
 ### Support or Contact
