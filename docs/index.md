@@ -11,7 +11,7 @@ Here's some of my favorite pictures I've taken so far
 ![castlerock](https://github.com/tdinhjason/tdinhjason.github.io/blob/main/assets/castlerock.jpeg?raw=true)
 This a huge rock near my hometown that I frequent for pictures, sunrises, sunsets, and generally just to get away from the 'burbs lol.
 
-![IMG_6319](https://github.com/tdinhjason/tdinhjason.github.io/blob/main/assets/IMG_6319.jpg)
+![IMG_6319](https://github.com/tdinhjason/tdinhjason.github.io/blob/main/assets/IMG_6319.jpg?raw=true)
 This is BlackJack, aka Blackie, a goat I met on a service trip to Paris, Virginia in 2018. He really bridged the gap between the reigning goats of the farm and us the lowly volunteers.
 
 ![IMG_5948](https://github.com/tdinhjason/tdinhjason.github.io/blob/main/assets/IMG_5948.jpg?raw=true)
