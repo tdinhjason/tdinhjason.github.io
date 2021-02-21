@@ -29,3 +29,6 @@ Ever meet an emu? Imagine an ostrich and shrink it down a bit. That's basically 
 ### Creating Charts!
 <iframe title="" aria-label="chart" id="datawrapper-chart-4ff0b" src="https://datawrapper.dwcdn.net/4ff0b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="444"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<iframe title="Confirmed COVID-19 cases and deaths for Pennsylvania" aria-label="Interactive line chart" id="datawrapper-chart-7d2Bv" src="https://datawrapper.dwcdn.net/7d2Bv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
