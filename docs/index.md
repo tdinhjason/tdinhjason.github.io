@@ -33,9 +33,7 @@ The chart below shows cumulative COVID-19 cases as well as deaths in the state o
 <iframe title="Confirmed COVID-19 cases and deaths for Pennsylvania" aria-label="Interactive line chart" id="datawrapper-chart-7d2Bv" src="https://datawrapper.dwcdn.net/7d2Bv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 ### 360 Footage & Virtual Tour using Poly! 
-I wanted to take a look at some of my favorite spots :)
-
-Ranges from Lehigh University to Salem, MA and nearby areas.  
+I wanted to take a look at some of my favorite spots :) The places of interest ranges from Lehigh University to Salem, MA and nearby areas.  
 
 Credits: Paul Henry, Photo from Russell Smith Sound from Zapsplat.com, Brian Hale, Photo from Google, Jason Dinh; sounds from ZapSplat, Jason Dinh
 <iframe width="100%" height="480px" src="https://poly.google.com/view/c8odwLdrl64/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
